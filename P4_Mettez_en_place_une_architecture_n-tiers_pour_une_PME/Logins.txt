@@ -1,0 +1,6 @@
+lamp
+admin
+
+mysql:
+steven
+admin
