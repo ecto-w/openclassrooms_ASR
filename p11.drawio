@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T17:34:01.049Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="oQImFl0XRg7oJupyH9Jg" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T18:52:34.321Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="z26HLPM0vogM9GduD7ES" version="21.6.8" type="github">
   <diagram name="Page-1" id="MCT49AQhwEGtnlmwYJ10">
     <mxGraphModel dx="1421" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,26 +157,11 @@
         <mxCell id="NRB_2qwOOceBcr5W2XaW-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="430" width="500" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-46" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="188" y="810" width="41" height="50" as="geometry" />
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-66" value="&lt;b&gt;SOCLE PHYSIQUE ADMIN&lt;/b&gt;" style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-39" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="115.60000000000002" y="810" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-47" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;" vertex="1" parent="1">
-          <mxGeometry x="360" y="830" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-66" value="&lt;b&gt;SOCLE ADMIN&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="450" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-67" value="&lt;b&gt;SOCLE PROD&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="750" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-70" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="299.5" y="470" as="sourcePoint" />
-            <mxPoint x="299.5" y="660" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-67" value="&lt;b&gt;SOCLE PHYSIQUE PROD&lt;/b&gt;" style="text;html=1;strokeColor=#36393d;fillColor=#ffcccc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="740" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NRB_2qwOOceBcr5W2XaW-71" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -184,17 +169,98 @@
             <mxPoint x="299.5" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-73" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="96" y="890" width="28.000000000000004" height="50" as="geometry" />
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-80" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="75.6" y="501" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-74" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="160" y="890" width="28.000000000000004" height="50" as="geometry" />
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-82" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="78.8" y="566" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-75" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="220" y="890" width="28.000000000000004" height="50" as="geometry" />
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-91" value="Infrastructure d&#39;administration (annuaire, fichiers &amp;amp; certificats, etc.)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="140" y="513.5" width="250" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-79" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="450" y="830" width="28.000000000000004" height="50" as="geometry" />
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-94" value="&lt;div&gt;Outils d&#39;administration (serveurs de surveillance du parc, de journalisation, de sauvegarde &amp;amp; de restauration ,etc.)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="140" y="556" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-95" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.tools;pointerEvents=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="96.3" y="596" width="29.7" height="29.7" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-117" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110.00000000000003" y="780" width="50.77999999999999" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-39" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-117">
+          <mxGeometry x="5.659999999999997" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-103" value="Serveur WEB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=11;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-117">
+          <mxGeometry y="55" width="45.12" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-118" value="" style="group" vertex="1" connectable="0" parent="NRB_2qwOOceBcr5W2XaW-117">
+          <mxGeometry x="95.65999999999998" width="45.120000000000005" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-46" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-118">
+          <mxGeometry x="4.119999999999976" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-115" value="Serveur BDD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=11;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-118">
+          <mxGeometry y="55" width="45.12" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-131" value="" style="group;fontSize=11;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="343" y="858" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-47" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-131">
+          <mxGeometry x="15" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-81" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;AD DS, DHCP &amp;amp; DNS&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=11;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-131">
+          <mxGeometry y="55" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-132" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="427" y="858" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-96" value="Serveur applicatif" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=11;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-132">
+          <mxGeometry y="55" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-125" value="" style="group" vertex="1" connectable="0" parent="NRB_2qwOOceBcr5W2XaW-132">
+          <mxGeometry x="21" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-79" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-125">
+          <mxGeometry width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-97" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Vista-Inspirate_1.0/128x128/apps/debian.png" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-125">
+          <mxGeometry x="10" y="22" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-148" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="880" width="90" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-143" value="" style="group" vertex="1" connectable="0" parent="NRB_2qwOOceBcr5W2XaW-148">
+          <mxGeometry width="90" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-122" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-143">
+          <mxGeometry x="20.729999999999905" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-140" value="Serveur VOIP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=11;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-143">
+          <mxGeometry y="55" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-144" value="Serveur fichiers &amp;amp; impression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=11;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-143">
+          <mxGeometry x="87" y="47" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-106" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/VOIP_IP_phone.svg;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-148">
+          <mxGeometry x="36" y="17.639999999999986" width="21.29" height="32.36" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-150" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="880" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-124" value="" style="group" vertex="1" connectable="0" parent="NRB_2qwOOceBcr5W2XaW-150">
+          <mxGeometry x="18.999999999999943" width="46.61000000000007" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-121" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-124">
+          <mxGeometry width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-108" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Universal_Print.svg;" vertex="1" parent="NRB_2qwOOceBcr5W2XaW-124">
+          <mxGeometry x="13.439999999999998" y="25" width="29.31" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-151" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="1">
+          <mxGeometry x="364" y="760" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-153" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="1">
+          <mxGeometry x="412" y="460" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
