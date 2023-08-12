@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T15:48:00.935Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="VUUbjUF_0zEdvk57-x5W" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T15:51:43.575Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="1jPOVB044a0rRIpIPkf4" version="21.6.8" type="github">
   <diagram name="Page-1" id="MCT49AQhwEGtnlmwYJ10">
     <mxGraphModel dx="1687" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -544,7 +544,7 @@
         <mxCell id="jCJfGkQqWoNBRLW-9uKO-28" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
           <mxGeometry x="890" y="333" width="60" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="jCJfGkQqWoNBRLW-9uKO-30" value="Relais filtrant de mails" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jCJfGkQqWoNBRLW-9uKO-30" value="Relais filtrant de mails (MTA)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="782" y="333" width="90.5" height="37" as="geometry" />
         </mxCell>
       </root>
