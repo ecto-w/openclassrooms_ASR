@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T17:55:33.997Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="Ft-VNaJmlqB8PRaCxXaS" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T17:58:47.763Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="Kt7T0NZT-NlMocJYYj4A" version="21.6.8" type="github">
   <diagram name="Page-1" id="MCT49AQhwEGtnlmwYJ10">
-    <mxGraphModel dx="2049" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,12 +41,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="319" as="sourcePoint" />
             <mxPoint x="360" y="94" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4GmKf-bt9O3A-WDNOiVA-18" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;jumpStyle=gap;" parent="1" source="NRB_2qwOOceBcr5W2XaW-200" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="259" as="sourcePoint" />
-            <mxPoint x="360" y="254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NRB_2qwOOceBcr5W2XaW-8" value="&lt;b&gt;VPN TLS&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -313,15 +307,6 @@
         <mxCell id="NRB_2qwOOceBcr5W2XaW-197" value="HTTPS (443)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="260" y="86.5" width="80" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-201" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;jumpStyle=gap;" parent="1" source="NRB_2qwOOceBcr5W2XaW-9" target="NRB_2qwOOceBcr5W2XaW-200" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="254" as="sourcePoint" />
-            <mxPoint x="360" y="254" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-200" value="HTTPS (443)&lt;br&gt;&lt;div&gt;SSH (22)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="260" y="229" width="80" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="NRB_2qwOOceBcr5W2XaW-202" value="HTTPS (443)&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;CIFS (445)&lt;br style=&quot;font-size: 12px;&quot;&gt;SMTP (25)&lt;br style=&quot;font-size: 12px;&quot;&gt;LDAPS (636)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;MSSQL (1433)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;DHCP (67)&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;VOIP (5060)&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;IPP (631)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;APP (2065-2200)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;NPS (1812)&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="610" y="637.25" width="100" height="135.5" as="geometry" />
         </mxCell>
@@ -538,7 +523,7 @@
             <mxPoint x="710" y="583" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TxtCWQh9rWGxWp5g5Ubx-12" value="VLAN TECHNIQUE" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=1" connectable="0" vertex="1" parent="TxtCWQh9rWGxWp5g5Ubx-11">
+        <mxCell id="TxtCWQh9rWGxWp5g5Ubx-12" value="&lt;div&gt;VLAN TECHNIQUE&lt;/div&gt;&lt;div&gt;VPN IPSEC&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=1" connectable="0" vertex="1" parent="TxtCWQh9rWGxWp5g5Ubx-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TxtCWQh9rWGxWp5g5Ubx-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
@@ -549,6 +534,30 @@
         </mxCell>
         <mxCell id="TxtCWQh9rWGxWp5g5Ubx-18" value="&lt;div&gt;VLAN ADMIN&lt;/div&gt;&lt;div&gt;SSH (22)&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=1" connectable="0" vertex="1" parent="TxtCWQh9rWGxWp5g5Ubx-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TxtCWQh9rWGxWp5g5Ubx-23" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="279.99999999999994" as="sourcePoint" />
+            <mxPoint x="399.72" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxtCWQh9rWGxWp5g5Ubx-24" value="&lt;div&gt;VLAN ADMIN&lt;/div&gt;&lt;div&gt;SSH (22)&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=1" connectable="0" vertex="1" parent="TxtCWQh9rWGxWp5g5Ubx-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TxtCWQh9rWGxWp5g5Ubx-25" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="TxtCWQh9rWGxWp5g5Ubx-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="479" as="sourcePoint" />
+            <mxPoint x="360" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxtCWQh9rWGxWp5g5Ubx-26" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="TxtCWQh9rWGxWp5g5Ubx-27" source="NRB_2qwOOceBcr5W2XaW-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="260" as="sourcePoint" />
+            <mxPoint x="360" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxtCWQh9rWGxWp5g5Ubx-27" value="HTTPS (443)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="246.5" width="80" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
