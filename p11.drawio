@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T15:49:30.426Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="2-8kiJNpeKqHze-Iegeu" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T15:54:24.133Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="UhXoBTq1SsEFn56TjnXD" version="21.6.8" type="github">
   <diagram name="Page-1" id="MCT49AQhwEGtnlmwYJ10">
     <mxGraphModel dx="1304" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
             <mxPoint x="720" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-35" value="VLAN ADMIN" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1;fontColor=#00FF80;" parent="1" vertex="1">
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-35" value="VLAN ADMIN" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1;fontColor=#67AB9F;" parent="1" vertex="1">
           <mxGeometry x="550" y="545" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NRB_2qwOOceBcr5W2XaW-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;jumpStyle=gap;" parent="1" edge="1" source="era-oCGwM-qUAWhPLauf-18">
@@ -196,7 +196,7 @@
         <mxCell id="NRB_2qwOOceBcr5W2XaW-159" value="Système de prévention d&#39;intrusion (IPS)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="710" y="199" width="102.25" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-161" value="&lt;div&gt;Reverse&lt;/div&gt;&lt;div&gt;proxy&lt;/div&gt;&lt;div&gt;&lt;span data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;--darkreader-inline-bgcolor: transparent; background-color: transparent;&quot;&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #1aff8d;&quot; color=&quot;#00ff80&quot;&gt;SSH (22)&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-161" value="&lt;div&gt;Reverse&lt;/div&gt;&lt;div&gt;proxy&lt;/div&gt;&lt;div&gt;&lt;span data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;--darkreader-inline-bgcolor: transparent; background-color: transparent;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #74b2a7;&quot;&gt;SSH (22)&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="920" y="284" width="60.5" height="46.75" as="geometry" />
         </mxCell>
         <mxCell id="NRB_2qwOOceBcr5W2XaW-162" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;" parent="1" edge="1">
@@ -292,7 +292,7 @@
             <mxPoint x="1160" y="543" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-216" value="&lt;div&gt;HTTPS (443)&lt;/div&gt;&lt;div&gt;CIFS (445)&lt;/div&gt;&lt;div&gt;LDAPS (636)&lt;/div&gt;&lt;div&gt;DHCP (67)&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;VOIP (5060)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;IPP (631)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;NPS (1812)&lt;br&gt;&lt;b&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #1aff8d;&quot; color=&quot;#00ff80&quot;&gt;SSH (22)&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-216" value="&lt;div&gt;HTTPS (443)&lt;/div&gt;&lt;div&gt;CIFS (445)&lt;/div&gt;&lt;div&gt;LDAPS (636)&lt;/div&gt;&lt;div&gt;DHCP (67)&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;VOIP (5060)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;IPP (631)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;NPS (1812)&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#67ab9f&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #74b2a7;&quot;&gt;SSH (22)&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1060" y="480" width="80" height="126" as="geometry" />
         </mxCell>
         <mxCell id="NRB_2qwOOceBcr5W2XaW-217" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;jumpStyle=gap;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="NRB_2qwOOceBcr5W2XaW-216" edge="1" source="era-oCGwM-qUAWhPLauf-5">
@@ -355,7 +355,7 @@
             <mxPoint x="873.9999999999998" y="163" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NRB_2qwOOceBcr5W2XaW-39" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;Serveur&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Web&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #1aff8d;&quot; color=&quot;#00ff80&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SSH (22)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" parent="1" vertex="1">
+        <mxCell id="NRB_2qwOOceBcr5W2XaW-39" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;Serveur&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Web&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#67ab9f&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #74b2a7;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SSH (22)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#67ab9f&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #74b2a7;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" parent="1" vertex="1">
           <mxGeometry x="954" y="337" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jCJfGkQqWoNBRLW-9uKO-12" value="VLAN IMPRIMANTES" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" parent="1" vertex="1">
@@ -400,7 +400,7 @@
         <mxCell id="jCJfGkQqWoNBRLW-9uKO-28" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" parent="1" vertex="1">
           <mxGeometry x="741" y="333" width="60" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="jCJfGkQqWoNBRLW-9uKO-30" value="&lt;div&gt;Relais filtrant de mails (MTA)&lt;/div&gt;&lt;div&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #1aff8d;&quot; color=&quot;#00ff80&quot;&gt;SSH (22)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="jCJfGkQqWoNBRLW-9uKO-30" value="&lt;div&gt;Relais filtrant de mails (MTA)&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#67ab9f&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #74b2a7;&quot;&gt;SSH (22)&lt;/font&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #74b2a7;&quot; color=&quot;#67ab9f&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="681" y="279" width="73" height="61" as="geometry" />
         </mxCell>
         <mxCell id="hYJI5zRfcQCzrkyCf5w6-13" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -460,7 +460,7 @@
             <mxPoint x="360" y="254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TxtCWQh9rWGxWp5g5Ubx-27" value="&lt;div&gt;HTTPS (443)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #1aff8d;&quot; color=&quot;#00ff80&quot;&gt;SSH (22)&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="TxtCWQh9rWGxWp5g5Ubx-27" value="&lt;div&gt;HTTPS (443)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#67ab9f&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #74b2a7;&quot;&gt;SSH (22)&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="260" y="238" width="80" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="era-oCGwM-qUAWhPLauf-1" value="&lt;div&gt;Switch de couche 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #ff8d1a;&quot; color=&quot;#ff8000&quot;&gt;ACL&lt;/font&gt;&lt;/b&gt;&lt;br&gt; &lt;/div&gt;" style="shape=mxgraph.cisco.switches.layer_3_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
@@ -549,7 +549,7 @@
             <mxPoint x="280.78" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="era-oCGwM-qUAWhPLauf-31" value="&lt;div&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #1aff8d;&quot; color=&quot;#00ff80&quot;&gt;VLAN ADMIN&lt;/font&gt;&lt;/div&gt;&lt;div&gt;VLAN SERVICES&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="era-oCGwM-qUAWhPLauf-30">
+        <mxCell id="era-oCGwM-qUAWhPLauf-31" value="&lt;div&gt;&lt;font color=&quot;#67ab9f&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #74b2a7;&quot;&gt;VLAN ADMIN&lt;/font&gt;&lt;/div&gt;&lt;div&gt;VLAN SERVICES&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="era-oCGwM-qUAWhPLauf-30">
           <mxGeometry y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -593,7 +593,7 @@
             <mxPoint x="1200" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="era-oCGwM-qUAWhPLauf-39" value="&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #1aff8d;&quot; color=&quot;#00ff80&quot;&gt;VLAN ADMIN&lt;/font&gt;&lt;br&gt;VLAN SERVICES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="era-oCGwM-qUAWhPLauf-38">
+        <mxCell id="era-oCGwM-qUAWhPLauf-39" value="&lt;font color=&quot;#67ab9f&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #74b2a7;&quot;&gt;VLAN ADMIN&lt;/font&gt;&lt;br&gt;VLAN SERVICES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="era-oCGwM-qUAWhPLauf-38">
           <mxGeometry y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -612,13 +612,13 @@
         <mxCell id="era-oCGwM-qUAWhPLauf-54" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" vertex="1" parent="1">
           <mxGeometry x="386" y="539.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="era-oCGwM-qUAWhPLauf-56" value="&lt;div&gt;Interface réseau&lt;/div&gt;&lt;div&gt;&lt;b&gt;ADMIN&lt;/b&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #1aff8d;&quot; color=&quot;#00ff80&quot;&gt; &lt;b&gt;(SSH 22)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="era-oCGwM-qUAWhPLauf-56" value="&lt;div&gt;Interface réseau&lt;/div&gt;&lt;div&gt;&lt;b&gt;ADMIN&lt;/b&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #1aff8d;&quot; color=&quot;#00ff80&quot;&gt; &lt;/font&gt;&lt;font color=&quot;#67ab9f&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #74b2a7;&quot;&gt;&lt;b&gt;(SSH 22)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="422" y="538.38" width="100" height="32.25" as="geometry" />
         </mxCell>
         <mxCell id="era-oCGwM-qUAWhPLauf-57" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" vertex="1" parent="1">
           <mxGeometry x="386" y="824.62" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="era-oCGwM-qUAWhPLauf-58" value="&lt;div&gt;Interface réseau&lt;/div&gt;&lt;div&gt;&lt;b&gt;ADMIN&lt;/b&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #1aff8d;&quot; color=&quot;#00ff80&quot;&gt; &lt;b&gt;(SSH 22)&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="era-oCGwM-qUAWhPLauf-58" value="&lt;div&gt;Interface réseau&lt;/div&gt;&lt;div&gt;&lt;b&gt;ADMIN&lt;/b&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #1aff8d;&quot; color=&quot;#00ff80&quot;&gt; &lt;/font&gt;&lt;font color=&quot;#67ab9f&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #74b2a7;&quot;&gt;&lt;b&gt;(SSH 22)&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="422" y="823.5" width="100" height="32.25" as="geometry" />
         </mxCell>
         <mxCell id="era-oCGwM-qUAWhPLauf-59" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" vertex="1" parent="1">
